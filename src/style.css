@@ -1,0 +1,31 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    /* width: 5080px;
+    height: 8080px; */
+}
+
+.el-table__empty-block {
+    background-color: #171c33;
+}
+
+.el-table__row:hover td {
+    background: transparent !important;
+}
+
+.mr-20 {
+    margin-right: 20px;
+}
+
+a {
+    color: #fff;
+    &:link,
+    &:visited,
+    &:hover,
+    &:active {
+        color: #fff;
+    }
+}
