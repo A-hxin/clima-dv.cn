@@ -1,7 +1,8 @@
 # Vue 3 + TypeScript + Vite
 
 ## 展示
-<img width="1680" alt="image" src="https://github.com/A-hxin/clima-dv.cn/assets/79702457/4181885b-ad74-49c4-85b4-8651c42b5578">
+![clima-dv](https://github.com/A-hxin/clima-dv.cn/assets/79702457/5508b8ce-9b95-4b70-998e-302008bf6e1f)
+
 
 
 
