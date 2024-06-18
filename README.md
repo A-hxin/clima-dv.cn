@@ -44,11 +44,9 @@ npm run build
 # 后端api启动
 
 ## 相关连接
-```
 Navicat:    https://www.123pan.com/s/lfKDVv-xsENH.html提取码:rvhu
 小皮工具箱：  https://www.xp.cn/
 Node.js:    https://nodejs.org/
-```
 
 ## 安装依赖
 ```bash
